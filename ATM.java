@@ -38,7 +38,7 @@ public class ATMExample
                     	System.out.print("Enter money to be deposited:");  
                     	deposit = sc.nextInt();  
                     	balance = balance + deposit;  
-        		System.out.println("Your Money has been successfully depsited");  
+        		System.out.println("Your Money has been successfully deposited");  
         		System.out.println("");  
         		break;  
    
